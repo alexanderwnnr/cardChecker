@@ -1,9 +1,9 @@
 # Getting Started with Create React App
 
-to start thit app just enter to terminal:.\
-git clone https://github.com/alexanderwnnr/cardChecker.git.\
-cd cardchecker/.\
-npm start.\
+to start thit app just enter to terminal: .\
+git clone https://github.com/alexanderwnnr/cardChecker.git .\
+cd cardchecker .\
+npm start .\
 
 ## Available Scripts
 
