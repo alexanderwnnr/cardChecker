@@ -1,6 +1,9 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+to start thit app just enter to terminal:
+git clone https://github.com/alexanderwnnr/cardChecker.git
+cd cardchecker/
+npm start
 
 ## Available Scripts
 
